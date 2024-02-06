@@ -2,7 +2,6 @@ const checkButton = document.getElementById("check-btn");
 const textInput = document.getElementById("text-input");
 const resultDiv = document.getElementById("result");
 
-
 checkButton.addEventListener("click", () => {
   if (textInput.textContent === "") {
     alert("Please input a value");
