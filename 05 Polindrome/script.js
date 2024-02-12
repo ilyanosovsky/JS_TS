@@ -9,6 +9,6 @@ checkButton.addEventListener("click", () => {
     console.log("empty button was clicked");
   } else if (textInput.textContent === "A") {
     resultDiv.innerText = "A is a palindrome";
-    console.log("A button was clicked");
+    // console.log("A button was clicked");
   }
 });
