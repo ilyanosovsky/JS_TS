@@ -46,8 +46,6 @@ const arr2 = [
 ]
 
 const getAllTrue = (arr) => {
-    // return arr.filter(item => item);
-
     // const slicedArr = arr.slice(1, -1);
     // const truthyBooleans = slicedArr.filter(item => item).map(() => true);
     // return truthyBooleans;
